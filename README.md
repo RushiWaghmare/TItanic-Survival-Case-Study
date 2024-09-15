@@ -1,4 +1,4 @@
-Titanic Survival Predictor
+#Titanic Survival Predictor
 Technology
 Supervised Machine Learning with Logistic Regression using Python
 
